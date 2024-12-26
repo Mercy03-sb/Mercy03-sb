@@ -8,8 +8,8 @@ class Bio extends SoftwareDeveloper {
   location = "Faridabad, Haryana, India";
 }
 class Skills extends SoftwareDeveloper {
-  Programming = ["C++", "Python", "JavaScript", "SQL"];
-  Frameworks = ["NodeJs", "ExpressJs"]
+  Programming = ["C++", "Java", "Python", "JavaScript", "SQL"];
+  Frameworks = ["ReactJs", "NodeJs", "ExpressJs"]
   Databases = ["MySQL", "MongoDB"];
   Tools = ["Git", "Postman"];
 }
